@@ -2,29 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on よりもなも事物</title>
-    <link>http://miucan.github.io/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on よりもなも事物</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Nov 2020 16:54:51 +0800</lastBuildDate>
     
-        <atom:link href="http://miucan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>http://miucan.github.io/2020/11/first/</link>
+      <link>/2020/11/first/</link>
       <pubDate>Sun, 29 Nov 2020 16:54:51 +0800</pubDate>
       
-      <guid>http://miucan.github.io/2020/11/first/</guid>
+      <guid>/2020/11/first/</guid>
       <description>测试 测试</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://miucan.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://miucan.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
